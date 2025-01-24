@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=CodeEditor
+Comment=A simple code editor with syntax highlighting and dark mode.
+Exec=/usr/bin/codeeditor
+Icon=codeeditor
+Terminal=false
+Type=Application
+Categories=Development;Utility;TextEditor;

@@ -1,0 +1,7 @@
+Package: codeeditor
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Fajar Julyana <fajarjulyana1@gmail.com>
+Description: A simple code editor with syntax highlighting and dark mode.
